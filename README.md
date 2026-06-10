@@ -1,5 +1,10 @@
 # Hangman Game
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CodeAlpha](https://img.shields.io/badge/CodeAlpha-Internship-FF6B00?style=for-the-badge)
+![Project](https://img.shields.io/badge/Project-Hangman%20Game-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+
 A simple text-based Hangman game developed in Python as part of my Python Programming Internship at CodeAlpha.
 
 ---

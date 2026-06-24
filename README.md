@@ -43,20 +43,17 @@ The project demonstrates fundamental Python programming concepts such as loops, 
 
 Word: _ _ _ _ _ _
 Attempts Left: 6
-Guessed Letters: []
-
+Guessed letters: []
 Enter a letter: p
 
-✅ Correct Guess!
+Correct!
 
 Word: p _ _ _ _ _
 Attempts Left: 6
-Guessed Letters: ['p']
-
+Guessed letters: ['p']
 Enter a letter: x
 
-❌ Wrong Guess!
-Attempts Left: 5
+Wrong guess!
 ```
 
 ---
@@ -75,7 +72,7 @@ Attempts Left: 5
 ## 📂 Project Structure
 
 ```text
-hangman-game/
+Task1_Hangman/
 │
 ├── hangman.py      # Main game logic
 └── README.md       # Project documentation

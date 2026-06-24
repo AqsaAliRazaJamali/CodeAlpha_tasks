@@ -123,7 +123,7 @@ This project showcases several core Python concepts, including:
 
 ## 🎓 Internship Information
 
-This project was developed as part of the **Python Programming Internship** at **CodeAlpha**.
+This project was completed as Task 1 of the Python Programming Internship offered by CodeAlpha[cite: 1]
 
 ---
 
@@ -133,8 +133,6 @@ This project was developed as part of the **Python Programming Internship** at *
 <div align="center">
 
 ### **Aqsa Jamali**
-
-💼 Passionate about **Artificial Intelligence, Full-Stack Development, and Problem Solving**
 
 [![GitHub](https://img.shields.io/badge/GitHub-AqsaAliRazaJamali-181717?style=for-the-badge&logo=github)](https://github.com/AqsaAliRazaJamali)
 

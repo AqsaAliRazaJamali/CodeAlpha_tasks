@@ -1,4 +1,4 @@
-# 🎯 Hangman Game
+#  Hangman Game
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -24,13 +24,13 @@ The project demonstrates fundamental Python programming concepts such as loops, 
 
 ## ✨ Features
 
-- 🎲 **Random Word Selection** using Python's built-in `random` module.
-- 📝 **Real-Time Word Progress Display** showing correctly guessed letters.
-- 🔄 **Guess Tracking** to prevent duplicate entries.
-- ✅ **Input Validation** ensuring only single alphabetic characters are accepted.
-- ❤️ **Limited Attempts System** for a challenging gameplay experience.
-- 🏆 **Win & Loss Detection** with appropriate game messages.
-- 💻 **Lightweight Terminal-Based Interface** requiring no external libraries.
+-  **Random Word Selection** using Python's built-in `random` module.
+-  **Real-Time Word Progress Display** showing correctly guessed letters.
+-  **Guess Tracking** to prevent duplicate entries.
+-  **Input Validation** ensuring only single alphabetic characters are accepted.
+-  **Limited Attempts System** for a challenging gameplay experience.
+-  **Win & Loss Detection** with appropriate game messages.
+-  **Lightweight Terminal-Based Interface** requiring no external libraries.
 
 ---
 
@@ -83,7 +83,7 @@ hangman-game/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1️⃣ Clone the Repository
 
@@ -105,7 +105,7 @@ python hangman.py
 
 ---
 
-## 🧠 Concepts Demonstrated
+##  Concepts Demonstrated
 
 This project showcases several core Python concepts, including:
 
@@ -127,15 +127,6 @@ This project was developed as part of the **Python Programming Internship** at *
 
 ---
 
-## 🔮 Future Improvements
-
-- Add multiple difficulty levels.
-- Include categories for words.
-- Implement a graphical interface using Tkinter or Pygame.
-- Add score tracking and leaderboard functionality.
-- Introduce ASCII art for Hangman stages.
-
----
 
 ## 👩‍💻 Author
 

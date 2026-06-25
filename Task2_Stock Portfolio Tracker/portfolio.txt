@@ -1,0 +1,9 @@
+Stock: AAPL
+Quantity: 6
+Investment Value: 1080
+Stock: AAPL
+Quantity: 7
+Investment Value: 1260
+Stock: GOOG
+Quantity: 9
+Investment Value: 1350

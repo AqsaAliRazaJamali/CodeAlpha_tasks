@@ -70,7 +70,7 @@ Investment Value: 1080
 ## 📂 Project Structure
 
 ```text
-stock-portfolio-tracker/
+Task2_Stock Portfolio Tracker/
 │
 ├── main.py           # Main application script
 ├── portfolio.txt     # Stores portfolio records

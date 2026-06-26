@@ -123,8 +123,6 @@ This project was completed as **Task 4** of the **Python Programming Internship*
 
 ### **Aqsa Jamali**
 
-Passionate about **Artificial Intelligence, Python Development, and Software Engineering**.
-
 [![GitHub](https://img.shields.io/badge/GitHub-AqsaAliRazaJamali-181717?style=for-the-badge&logo=github)](https://github.com/AqsaAliRazaJamali)
 
 </div>
